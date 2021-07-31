@@ -1,0 +1,17 @@
+#adder{
+    margin: 15px;
+}
+
+.inputfield{
+    margin: 10px;
+    padding: 5x;
+}
+
+.btn-primary{
+    margin: 5px;
+    padding: 1% 3% 1% 3%;
+    background-color: steelblue;
+    color: white;
+    border: white;
+    border-radius: 5px;
+}
